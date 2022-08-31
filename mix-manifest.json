@@ -1,0 +1,8 @@
+{
+    "/build/content.js": "/build/content.js",
+    "/build/background.js": "/build/background.js",
+    "/build/popup.js": "/build/popup.js",
+    "/build/manifest.json": "/build/manifest.json",
+    "/build/popup.html": "/build/popup.html",
+    "/build/images/icon.png": "/build/images/icon.png"
+}

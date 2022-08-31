@@ -1,0 +1,5 @@
+export const EVENTS = {
+    OPEN_LINK: "OPEN_LINK",
+    GET_USER_INFO: "GET_USER_INFO",
+    CLOSED_TAB: "CLOSED_TAB"
+}
